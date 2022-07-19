@@ -23,8 +23,7 @@ npm install bcrypt -g
 Heroku (backend):
 https://llh-eduk-backend.herokuapp.com/
 
-
 Netlify (frontend):
-
+https://llh-eduk-app.netlify.app/
 
 
