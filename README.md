@@ -21,7 +21,7 @@ npm install dotenv cors express pg-promise multer bcrypt
 npm install bcrypt -g
 
 Heroku (backend):
-
+https://llh-eduk-backend.herokuapp.com/
 
 
 Netlify (frontend):
