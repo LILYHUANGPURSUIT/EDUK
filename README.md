@@ -17,13 +17,14 @@ Add .env
 npm install
 
 Backend:
-npm install
+npm install dotenv cors express pg-promise multer bcrypt
+npm install bcrypt -g
 
 Heroku (backend):
 
-https://capstone-g5-pursuit.herokuapp.com/
+
 
 Netlify (frontend):
 
-https://eduk.netlify.app
+
 
