@@ -1,4 +1,4 @@
-# NYC-Rose-App
+# EDUK
 
 App Description
 
@@ -12,16 +12,8 @@ Nima $herpa
 David Vidals
 Theodore Frazier
 
-Frontend:
-Add .env
-npm install
-
-Backend:
-npm install dotenv cors express pg-promise multer bcrypt
-npm install bcrypt -g
-
 Heroku (backend):
-https://llh-eduk-backend.herokuapp.com/
+https://eduk-be.adaptable.app/
 
 Netlify (frontend):
 https://llh-eduk-app.netlify.app/
